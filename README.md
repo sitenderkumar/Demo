@@ -1,6 +1,6 @@
 # terraform-aws-3-tier-architecture
 
-This module contains terraform code to deploy **3 tier architectur**e in AWS Cloud provider
+This module contains terraform code to deploy **3 tier architecture** in AWS Cloud provider
 
 It creates a **VPC** with **3 Public** and **3 Private Subnets**.
 
